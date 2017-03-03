@@ -1,0 +1,10 @@
+<archetype>
+  <id>scala-elasticsearch-archetype</id>
+  <sources>
+    <source>src/main/scala/Main.scala</source>
+    <source>src/main/scala/utils/EsManager.scala</source>
+  </sources>
+  <testSources>
+    <source>src/test/scala/MainTest.scala</source>
+  </testSources>
+</archetype>
